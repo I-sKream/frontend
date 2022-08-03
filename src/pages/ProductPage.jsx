@@ -179,7 +179,7 @@ const ProductPage = () => {
                             <Btn className={isActive ? 'active' : ''}
                                 background='white'
                                 width='100%'
-                                style={{ marginTop: '12px', border: '1px solid #bdbdbd', textAlign: 'center', fontWeight: 400 }}>
+                                style={{ marginTop: '12px', border: '1px solid #bdbdbd', textAlign: 'center', fontWeight: 400 , cursor : "default" }}>
                                 관심상품
                             </Btn>
                         </div>
